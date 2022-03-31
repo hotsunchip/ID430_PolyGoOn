@@ -1,4 +1,6 @@
 # ID430_final
 ---
 
-<iframe width="640" height="360" src="https://youtu.be/ibk_aHwDbeE" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+Click the image below to watch promotion video of PGO!
+
+[![Video Label](http://img.youtube.com/vi/ibk_aHwDbeE/0.jpg)](https://youtu.be/ibk_aHwDbeE?t=0s)
